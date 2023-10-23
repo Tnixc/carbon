@@ -6,7 +6,7 @@
 import Nav from "./components/nav.vue";
 
 export default{
-  name: "App",
+  name: "Main",
   components: {
     Nav
   }
